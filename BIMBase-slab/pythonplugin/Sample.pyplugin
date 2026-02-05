@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<BIMPyPlugin>
+    <BfaLibName/>
+    <PluginVersion>1.0.0</PluginVersion>
+    <LoadStatus>true</LoadStatus>
+    <Category name="Sample">
+        <Panel name="基本图元">
+            <Button name="缩尺楼板模型">
+                <command>BIMBase-slab.py</command>
+                <iconPath>slab.ico</iconPath>
+            </Button>
+        </Panel>
+    </Category>
+    <Name>Sample</Name>
+    <PluginModule>C:\ProgramData\PKPM\BIMBase\Plugins\Pro\V1.6\pythonplugin\Sample\</PluginModule>
+    <PluginSDKVersion>1.6.2</PluginSDKVersion>
+</BIMPyPlugin>
